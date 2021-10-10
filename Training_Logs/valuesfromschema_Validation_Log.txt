@@ -1,0 +1,18 @@
+2021-10-03/11:14:57		Number of Columns in Main File:: {'user_id': 'int64', 'signup_time': 'varchar', 'purchase_time': 'varchar', 'purchase_value': 'int64', 'device_id': 'varchar', 'source': 'varchar', 'browser': 'varchar', 'sex': 'varchar', 'age': ' int64', 'ip_address': 'float64', 'class': 'int64'}Number of Columns in Additional File:: {'lower_bound_ip_address': 'int64', 'upper_bound_ip_address': 'int64', 'country': 'varchar'}
+MainFile Length of DateStamp::8
+MainFile Length of TimeStamp:: 6
+2021-10-03/11:23:08		Number of Columns in Main File:: {'user_id': 'int64', 'signup_time': 'varchar', 'purchase_time': 'varchar', 'purchase_value': 'int64', 'device_id': 'varchar', 'source': 'varchar', 'browser': 'varchar', 'sex': 'varchar', 'age': ' int64', 'ip_address': 'float64', 'class': 'int64'}Number of Columns in Additional File:: {'lower_bound_ip_address': 'int64', 'upper_bound_ip_address': 'int64', 'country': 'varchar'}
+MainFile Length of DateStamp::8
+MainFile Length of TimeStamp:: 6
+2021-10-03/11:51:39		Number of Columns in Main File:: {'user_id': 'int64', 'signup_time': 'varchar', 'purchase_time': 'varchar', 'purchase_value': 'int64', 'device_id': 'varchar', 'source': 'varchar', 'browser': 'varchar', 'sex': 'varchar', 'age': ' int64', 'ip_address': 'float64', 'class': 'int64'}Number of Columns in Additional File:: {'lower_bound_ip_address': 'int64', 'upper_bound_ip_address': 'int64', 'country': 'varchar'}
+MainFile Length of DateStamp::8
+MainFile Length of TimeStamp:: 6
+2021-10-03/11:54:16		Number of Columns in Main File:: {'user_id': 'int64', 'signup_time': 'varchar', 'purchase_time': 'varchar', 'purchase_value': 'int64', 'device_id': 'varchar', 'source': 'varchar', 'browser': 'varchar', 'sex': 'varchar', 'age': ' int64', 'ip_address': 'float64', 'class': 'int64'}Number of Columns in Additional File:: {'lower_bound_ip_address': 'int64', 'upper_bound_ip_address': 'int64', 'country': 'varchar'}
+MainFile Length of DateStamp::8
+MainFile Length of TimeStamp:: 6
+2021-10-03/12:20:38		Number of Columns in Main File:: {'user_id': 'int64', 'signup_time': 'varchar', 'purchase_time': 'varchar', 'purchase_value': 'int64', 'device_id': 'varchar', 'source': 'varchar', 'browser': 'varchar', 'sex': 'varchar', 'age': ' int64', 'ip_address': 'float64', 'class': 'int64'}Number of Columns in Additional File:: {'lower_bound_ip_address': 'int64', 'upper_bound_ip_address': 'int64', 'country': 'varchar'}
+MainFile Length of DateStamp::8
+MainFile Length of TimeStamp:: 6
+2021-10-03/13:05:31		Number of Columns in Main File:: {'user_id': 'int64', 'signup_time': 'varchar', 'purchase_time': 'varchar', 'purchase_value': 'int64', 'device_id': 'varchar', 'source': 'varchar', 'browser': 'varchar', 'sex': 'varchar', 'age': ' int64', 'ip_address': 'float64', 'class': 'int64'}Number of Columns in Additional File:: {'lower_bound_ip_address': 'int64', 'upper_bound_ip_address': 'int64', 'country': 'varchar'}
+MainFile Length of DateStamp::8
+MainFile Length of TimeStamp:: 6

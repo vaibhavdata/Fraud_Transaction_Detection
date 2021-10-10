@@ -1,0 +1,24 @@
+2021-10-03/11:14:57		Invalid File Name!! File moved to Bad Raw Main File Directory
+2021-10-03/11:14:57		Valid File Name !! File moved to GoodRaw_Main Directory ::Fraud_Data_07122020_120000.csv
+2021-10-03/11:14:57		Invalid File Name!! File moved to Bad Raw Additional File Directory
+2021-10-03/11:14:58		Valid File Name !! File moved to GoodRaw_Additional Directory ::IPAddress_To_Country_09122020_120156.csv
+2021-10-03/11:23:08		Invalid File Name!! File moved to Bad Raw Main File Directory
+2021-10-03/11:23:08		Valid File Name !! File moved to GoodRaw_Main Directory ::Fraud_Data_07122020_120000.csv
+2021-10-03/11:23:08		Invalid File Name!! File moved to Bad Raw Additional File Directory
+2021-10-03/11:23:08		Valid File Name !! File moved to GoodRaw_Additional Directory ::IPAddress_To_Country_09122020_120156.csv
+2021-10-03/11:51:39		Invalid File Name!! File moved to Bad Raw Main File Directory
+2021-10-03/11:51:39		Valid File Name !! File moved to GoodRaw_Main Directory ::Fraud_Data_07122020_120000.csv
+2021-10-03/11:51:39		Invalid File Name!! File moved to Bad Raw Additional File Directory
+2021-10-03/11:51:39		Valid File Name !! File moved to GoodRaw_Additional Directory ::IPAddress_To_Country_09122020_120156.csv
+2021-10-03/11:54:16		Invalid File Name!! File moved to Bad Raw Main File Directory
+2021-10-03/11:54:16		Valid File Name !! File moved to GoodRaw_Main Directory ::Fraud_Data_07122020_120000.csv
+2021-10-03/11:54:16		Invalid File Name!! File moved to Bad Raw Additional File Directory
+2021-10-03/11:54:16		Valid File Name !! File moved to GoodRaw_Additional Directory ::IPAddress_To_Country_09122020_120156.csv
+2021-10-03/12:20:38		Invalid File Name!! File moved to Bad Raw Main File Directory
+2021-10-03/12:20:39		Valid File Name !! File moved to GoodRaw_Main Directory ::Fraud_Data_07122020_120000.csv
+2021-10-03/12:20:39		Invalid File Name!! File moved to Bad Raw Additional File Directory
+2021-10-03/12:20:39		Valid File Name !! File moved to GoodRaw_Additional Directory ::IPAddress_To_Country_09122020_120156.csv
+2021-10-03/13:05:31		Invalid File Name!! File moved to Bad Raw Main File Directory
+2021-10-03/13:05:31		Valid File Name !! File moved to GoodRaw_Main Directory ::Fraud_Data_07122020_120000.csv
+2021-10-03/13:05:32		Invalid File Name!! File moved to Bad Raw Additional File Directory
+2021-10-03/13:05:32		Valid File Name !! File moved to GoodRaw_Additional Directory ::IPAddress_To_Country_09122020_120156.csv

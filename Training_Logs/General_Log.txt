@@ -1,0 +1,32 @@
+2021-10-03/11:15:30		Good Raw Main File Directory deleted Sucessfully !!!
+2021-10-03/11:15:30		Good Raw Main File Directory deleted Sucessfully !!!
+2021-10-03/11:15:31		Bad Additional files moved to archive
+2021-10-03/11:15:31		Bad Raw Additional Files Data Directory Removed Successfully!!
+2021-10-03/11:23:08		Bad Raw Additional Directory deleted Sucessfully !!!
+2021-10-03/11:23:08		Bad Raw Additional Directory deleted Sucessfully !!!
+2021-10-03/11:23:35		Good Raw Main File Directory deleted Sucessfully !!!
+2021-10-03/11:23:35		Good Raw Main File Directory deleted Sucessfully !!!
+2021-10-03/11:23:35		Bad Additional files moved to archive
+2021-10-03/11:23:35		Bad Raw Additional Files Data Directory Removed Successfully!!
+2021-10-03/11:51:39		Bad Raw Additional Directory deleted Sucessfully !!!
+2021-10-03/11:51:39		Bad Raw Additional Directory deleted Sucessfully !!!
+2021-10-03/11:51:52		Good Raw Main File Directory deleted Sucessfully !!!
+2021-10-03/11:51:52		Good Raw Main File Directory deleted Sucessfully !!!
+2021-10-03/11:51:52		Bad Additional files moved to archive
+2021-10-03/11:51:52		Bad Raw Additional Files Data Directory Removed Successfully!!
+2021-10-03/11:54:16		Bad Raw Additional Directory deleted Sucessfully !!!
+2021-10-03/11:54:16		Bad Raw Additional Directory deleted Sucessfully !!!
+2021-10-03/11:54:32		Good Raw Main File Directory deleted Sucessfully !!!
+2021-10-03/11:54:32		Good Raw Main File Directory deleted Sucessfully !!!
+2021-10-03/11:54:32		Bad Additional files moved to archive
+2021-10-03/11:54:32		Bad Raw Additional Files Data Directory Removed Successfully!!
+2021-10-03/12:20:52		Good Raw Main File Directory deleted Sucessfully !!!
+2021-10-03/12:20:52		Good Raw Main File Directory deleted Sucessfully !!!
+2021-10-03/12:20:52		Bad Additional files moved to archive
+2021-10-03/12:20:52		Bad Raw Additional Files Data Directory Removed Successfully!!
+2021-10-03/13:05:31		Bad Raw Additional Directory deleted Sucessfully !!!
+2021-10-03/13:05:32		Bad Raw Additional Directory deleted Sucessfully !!!
+2021-10-03/13:05:48		Good Raw Main File Directory deleted Sucessfully !!!
+2021-10-03/13:05:48		Good Raw Main File Directory deleted Sucessfully !!!
+2021-10-03/13:05:48		Bad Additional files moved to archive
+2021-10-03/13:05:48		Bad Raw Additional Files Data Directory Removed Successfully!!

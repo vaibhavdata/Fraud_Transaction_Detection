@@ -1,0 +1,12 @@
+2021-10-03/11:15:31		Bad Main files moved to archive
+2021-10-03/11:15:31		Bad Raw Main Files Data Directory Removed Successfully!!
+2021-10-03/11:23:35		Bad Main files moved to archive
+2021-10-03/11:23:35		Bad Raw Main Files Data Directory Removed Successfully!!
+2021-10-03/11:51:52		Bad Main files moved to archive
+2021-10-03/11:51:52		Bad Raw Main Files Data Directory Removed Successfully!!
+2021-10-03/11:54:32		Bad Main files moved to archive
+2021-10-03/11:54:32		Bad Raw Main Files Data Directory Removed Successfully!!
+2021-10-03/12:20:52		Bad Main files moved to archive
+2021-10-03/12:20:52		Bad Raw Main Files Data Directory Removed Successfully!!
+2021-10-03/13:05:48		Bad Main files moved to archive
+2021-10-03/13:05:48		Bad Raw Main Files Data Directory Removed Successfully!!

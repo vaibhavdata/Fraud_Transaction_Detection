@@ -1,0 +1,8 @@
+2021-10-04/20:58:23		Bad Raw Additional Directory deleted Sucessfully !!!
+2021-10-04/20:58:23		Bad Raw Additional Directory deleted Sucessfully !!!
+2021-10-04/20:58:32		Good Raw Main File Directory deleted Sucessfully !!!
+2021-10-04/20:58:32		Good Raw Main File Directory deleted Sucessfully !!!
+2021-10-04/20:58:32		Bad Main files moved to archive
+2021-10-04/20:58:32		Bad Raw Main Files Data Directory Removed Successfully!!
+2021-10-04/20:58:32		Bad Additional files moved to archive
+2021-10-04/20:58:32		Bad Raw Additional Files Data Directory Removed Successfully!!

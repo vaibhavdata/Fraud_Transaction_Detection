@@ -1,0 +1,105 @@
+2021-10-03/11:16:05		Start of Training
+2021-10-03/11:16:05		Entered the get_data Method of Data_Getter Class
+2021-10-03/11:16:12		Data Load Successfully
+2021-10-03/11:16:12		Entered the IsNull Present method of Data Proprocessing 
+2021-10-03/11:16:14		Entered to Map Ip Address to Corresponding Country
+2021-10-03/11:16:19		Error occured while mapping IP Address to Corresponding Country :: 'Overlapping intervals.'
+2021-10-03/11:16:19		Unsuccessfull End of Training
+2021-10-03/11:24:05		Start of Training
+2021-10-03/11:24:05		Entered the get_data Method of Data_Getter Class
+2021-10-03/11:24:12		Data Load Successfully
+2021-10-03/11:24:12		Entered the IsNull Present method of Data Proprocessing 
+2021-10-03/11:24:13		Entered to Map Ip Address to Corresponding Country
+2021-10-03/11:25:27		Mapping of IP Address to Corresponding Country Successfull in 0:00:33.820175
+2021-10-03/11:25:27		Entered to Finding Difference time between SignUp Time and Purchase Time
+2021-10-03/11:25:37		Finding Difference between Signup and Purchase Time Completed Successfully !!
+2021-10-03/11:25:37		Entered to perform One-Hot Encoding on Browser Feature
+2021-10-03/11:25:37		One-Hot Encoding of Browser Feature Successfully Completed
+2021-10-03/11:25:37		Entered to perform One-Hot Encoding on Source Feature
+2021-10-03/11:25:37		One-Hot Encoding of Source Feature Successfully Completed
+2021-10-03/11:25:37		Entered to perform One-Hot Encoding on Sex Feature
+2021-10-03/11:25:37		One-Hot Encoding of Sex Feature Successfully Completed
+2021-10-03/11:25:37		Count Frequency Encoding of Country Feature Started
+2021-10-03/11:45:10		Error while performing Count Frequency Encoding over Country feature:: unhashable type: 'set'
+2021-10-03/11:45:10		Unsuccessfull End of Training
+2021-10-03/11:52:15		Start of Training
+2021-10-03/11:52:15		Entered the get_data Method of Data_Getter Class
+2021-10-03/11:52:19		Data Load Successfully
+2021-10-03/11:52:19		Entered the IsNull Present method of Data Proprocessing 
+2021-10-03/11:52:20		Entered to Map Ip Address to Corresponding Country
+2021-10-03/11:53:08		Mapping of IP Address to Corresponding Country Successfull in 0:00:24.967895
+2021-10-03/11:53:08		Entered to Finding Difference time between SignUp Time and Purchase Time
+2021-10-03/11:53:16		Finding Difference between Signup and Purchase Time Completed Successfully !!
+2021-10-03/11:53:16		Entered to perform One-Hot Encoding on Browser Feature
+2021-10-03/11:53:17		One-Hot Encoding of Browser Feature Successfully Completed
+2021-10-03/11:53:17		Entered to perform One-Hot Encoding on Source Feature
+2021-10-03/11:53:17		One-Hot Encoding of Source Feature Successfully Completed
+2021-10-03/11:53:17		Entered to perform One-Hot Encoding on Sex Feature
+2021-10-03/11:53:17		One-Hot Encoding of Sex Feature Successfully Completed
+2021-10-03/11:53:17		Count Frequency Encoding of Country Feature Started
+2021-10-03/11:53:18		Error while performing Count Frequency Encoding over Country feature:: unhashable type: 'set'
+2021-10-03/11:53:18		Unsuccessfull End of Training
+2021-10-03/11:55:06		Start of Training
+2021-10-03/11:55:06		Entered the get_data Method of Data_Getter Class
+2021-10-03/11:55:12		Data Load Successfully
+2021-10-03/11:55:12		Entered the IsNull Present method of Data Proprocessing 
+2021-10-03/11:55:13		Entered to Map Ip Address to Corresponding Country
+2021-10-03/11:56:19		Mapping of IP Address to Corresponding Country Successfull in 0:00:39.157395
+2021-10-03/11:56:20		Entered to Finding Difference time between SignUp Time and Purchase Time
+2021-10-03/11:56:30		Finding Difference between Signup and Purchase Time Completed Successfully !!
+2021-10-03/11:56:30		Entered to perform One-Hot Encoding on Browser Feature
+2021-10-03/11:56:31		One-Hot Encoding of Browser Feature Successfully Completed
+2021-10-03/11:56:31		Entered to perform One-Hot Encoding on Source Feature
+2021-10-03/11:56:31		One-Hot Encoding of Source Feature Successfully Completed
+2021-10-03/11:56:31		Entered to perform One-Hot Encoding on Sex Feature
+2021-10-03/11:56:31		One-Hot Encoding of Sex Feature Successfully Completed
+2021-10-03/11:56:31		Count Frequency Encoding of Country Feature Started
+2021-10-03/12:17:04		Error while performing Count Frequency Encoding over Country feature:: unhashable type: 'set'
+2021-10-03/12:17:04		Unsuccessfull End of Training
+2021-10-03/12:21:29		Start of Training
+2021-10-03/12:21:29		Entered the get_data Method of Data_Getter Class
+2021-10-03/12:21:36		Data Load Successfully
+2021-10-03/12:21:36		Entered the IsNull Present method of Data Proprocessing 
+2021-10-03/12:21:37		Entered to Map Ip Address to Corresponding Country
+2021-10-03/12:22:45		Mapping of IP Address to Corresponding Country Successfull in 0:00:39.698562
+2021-10-03/12:22:45		Entered to Finding Difference time between SignUp Time and Purchase Time
+2021-10-03/12:22:59		Finding Difference between Signup and Purchase Time Completed Successfully !!
+2021-10-03/12:22:59		Entered to perform One-Hot Encoding on Browser Feature
+2021-10-03/12:22:59		One-Hot Encoding of Browser Feature Successfully Completed
+2021-10-03/12:22:59		Entered to perform One-Hot Encoding on Source Feature
+2021-10-03/12:23:00		One-Hot Encoding of Source Feature Successfully Completed
+2021-10-03/12:23:00		Entered to perform One-Hot Encoding on Sex Feature
+2021-10-03/12:23:00		One-Hot Encoding of Sex Feature Successfully Completed
+2021-10-03/12:23:00		Count Frequency Encoding of Country Feature Started
+2021-10-03/12:45:08		Error while performing Count Frequency Encoding over Country feature:: unhashable type: 'set'
+2021-10-03/12:45:08		Unsuccessfull End of Training
+2021-10-03/13:06:26		Start of Training
+2021-10-03/13:06:26		Entered the get_data Method of Data_Getter Class
+2021-10-03/13:06:33		Data Load Successfully
+2021-10-03/13:06:33		Entered the IsNull Present method of Data Proprocessing 
+2021-10-03/13:06:34		Entered to Map Ip Address to Corresponding Country
+2021-10-03/13:07:57		Mapping of IP Address to Corresponding Country Successfull in 0:00:55.662947
+2021-10-03/13:07:57		Entered to Finding Difference time between SignUp Time and Purchase Time
+2021-10-03/13:08:09		Finding Difference between Signup and Purchase Time Completed Successfully !!
+2021-10-03/13:08:09		Entered to perform One-Hot Encoding on Browser Feature
+2021-10-03/13:08:09		One-Hot Encoding of Browser Feature Successfully Completed
+2021-10-03/13:08:09		Entered to perform One-Hot Encoding on Source Feature
+2021-10-03/13:08:10		One-Hot Encoding of Source Feature Successfully Completed
+2021-10-03/13:08:10		Entered to perform One-Hot Encoding on Sex Feature
+2021-10-03/13:08:10		One-Hot Encoding of Sex Feature Successfully Completed
+2021-10-03/13:08:10		Removing Unwanted Columns Started !!
+2021-10-03/13:08:12		Unwanted Columns Deleted Successfully !!
+2021-10-03/13:08:12		Entered to Separate Label Feature Method
+2021-10-03/13:08:12		Label Separation Done Successfully
+2021-10-03/13:08:12		Entered the get_best_model of best_model_finder class
+2021-10-03/13:08:12		Entered the get_best_params_for_RandomForest Method
+2021-10-03/14:15:51		RandomForest Best params:{'min_samples_leaf': 1, 'n_estimators': 120}Exited the Best Params of Random Forest Class
+2021-10-03/14:16:43		Best Decision Threshold Value for Random Forest is:: 0.6000000000000001
+2021-10-03/14:16:44		ROC AUC Score of RandomForest ::0.5	Recall of Random Forest::1.0	Precision of Random Forest::0.09396034487105151	F1-Score of Random Forest ::0.1717801660939125
+2021-10-03/14:16:44		Entered the get_best_params_for_xgboost method
+2021-10-03/21:18:02		XGBoost best params:{'max_delta_step': 4, 'n_estimators': 120}Exited the best_params_for_XGBoost
+2021-10-03/21:18:05		Best Decision Threshold Value for XGBoost is:: 0.06481663
+2021-10-03/21:18:06		ROC AUC Score of XGBoost ::0.8255845394728066	Recall of XGBoost::0.7671127209310125	Precision of XGBoost::0.4069277162020317	F1-Score of XGBoost::0.5317694650454513
+2021-10-03/21:18:06		Entered the save_model method of File Operation Class
+2021-10-03/21:18:06		Model FileXGBoost Saved.Exited the save_model method of file_operation class
+2021-10-03/21:18:06		Successfull End of Training

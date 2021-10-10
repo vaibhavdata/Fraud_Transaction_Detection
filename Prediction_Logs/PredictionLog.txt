@@ -1,0 +1,41 @@
+2021-10-04/20:58:41		Start of Prediction
+2021-10-04/20:58:41		Entered the get_data Method of Data_Getter Class
+2021-10-04/20:58:42		Data Load Successfully
+2021-10-04/20:58:42		Entered the IsNull Present method of Data Proprocessing 
+2021-10-04/20:58:42		Entered to Map Ip Address to Corresponding Country
+2021-10-04/20:59:07		Mapping of IP Address to Corresponding Country Successfull in 0:00:04.743278
+2021-10-04/20:59:07		Entered to Finding Difference time between SignUp Time and Purchase Time
+2021-10-04/20:59:09		Finding Difference between Signup and Purchase Time Completed Successfully !!
+2021-10-04/20:59:09		Entered to perform One-Hot Encoding on Browser Feature
+2021-10-04/20:59:09		One-Hot Encoding of Browser Feature Successfully Completed
+2021-10-04/20:59:09		Entered to perform One-Hot Encoding on Source Feature
+2021-10-04/20:59:09		One-Hot Encoding of Source Feature Successfully Completed
+2021-10-04/20:59:09		Entered to perform One-Hot Encoding on Sex Feature
+2021-10-04/20:59:09		One-Hot Encoding of Sex Feature Successfully Completed
+2021-10-04/20:59:09		Removing Unwanted Columns Started !!
+2021-10-04/20:59:09		Unwanted Columns Deleted Successfully !!
+2021-10-04/20:59:09		Entered the find_correct_model_file method of the File_Operation class
+2021-10-04/20:59:09		Exited the find_correct_model_file method of FileMethods Package
+2021-10-04/20:59:09		Entered the load_model method of File Operation Class
+2021-10-04/20:59:09		Model FileXGBoostLoaded Successfully
+2021-10-04/20:59:15		Successfull End of Prediction
+2021-10-04/21:03:30		Start of DataRow Prediction
+2021-10-04/21:03:30		Entered to DataRow Map Ip Address to Corresponding Country
+2021-10-04/21:03:30		Mapping of IP Address to Corresponding Country Successfull
+2021-10-04/21:03:30		Entered DataRow to Finding Difference time between SignUp Time and Purchase Time
+2021-10-04/21:03:30		Finding Difference between Signup and Purchase Time Completed Successfully !!
+2021-10-04/21:03:30		Entered to perform DataRow One-Hot Encoding on Browser Feature
+2021-10-04/21:03:30		One-Hot Encoding of Browser Feature Successfully Completed
+2021-10-04/21:03:30		Entered to Data Row perform One-Hot Encoding on Source Feature
+2021-10-04/21:03:30		One-Hot Encoding of Source Feature Successfully Completed
+2021-10-04/21:03:30		Entered to perform DataRow One-Hot Encoding on Sex Feature
+2021-10-04/21:03:30		One-Hot Encoding of Sex Feature Successfully Completed
+2021-10-04/21:03:30		Count Frequency Encoding of Country Feature Started
+2021-10-04/21:03:30		Count Frequency Encoding of Country Feature Successfully Completed
+2021-10-04/21:03:30		Removing DataRow Unwanted Columns Started !!
+2021-10-04/21:03:30		Unwanted Columns Deleted Successfully !!
+2021-10-04/21:03:31		Entered the find_correct_model_file method of the File_Operation class
+2021-10-04/21:03:31		Exited the find_correct_model_file method of FileMethods Package
+2021-10-04/21:03:31		Entered the load_model method of File Operation Class
+2021-10-04/21:03:31		Model FileXGBoostLoaded Successfully
+2021-10-04/21:03:31		Error Occured while doing the DataRaw Prediction !! Error :: Feature shape mismatch, expected: 13, got 1

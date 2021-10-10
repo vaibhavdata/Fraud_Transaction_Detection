@@ -1,0 +1,14 @@
+2021-10-03/11:15:16		MainFile_Good_Raw_Data Table Created Successfully !!
+2021-10-03/11:15:16		AdditionalFile_Good_Raw_Data Table Created Successfully !!
+2021-10-03/11:23:23		MainFile_Good_Raw_Data Table Created Successfully !!
+2021-10-03/11:23:23		AdditionalFile_Good_Raw_Data Table Created Successfully !!
+2021-10-03/11:51:46		MainFile_Good_Raw_Data Table Created Successfully !!
+2021-10-03/11:51:46		AdditionalFile_Good_Raw_Data Table Created Successfully !!
+2021-10-03/11:54:23		MainFile_Good_Raw_Data Table Created Successfully !!
+2021-10-03/11:54:23		AdditionalFile_Good_Raw_Data Table Created Successfully !!
+2021-10-03/12:20:45		MainFile_Good_Raw_Data Table Created Successfully !!
+2021-10-03/12:20:45		AdditionalFile_Good_Raw_Data Table Created Successfully !!
+2021-10-03/13:05:40		MainFile_Good_Raw_Data Table Created Successfully !!
+2021-10-03/13:05:40		AdditionalFile_Good_Raw_Data Table Created Successfully !!
+2021-10-04/20:51:46		Error while creating Table:: unable to open database file
+2021-10-04/20:53:04		Error while creating Table:: unable to open database file
